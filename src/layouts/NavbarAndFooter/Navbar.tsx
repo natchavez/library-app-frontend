@@ -18,11 +18,13 @@ export const Navbar = () => {
           <ul className='navbar-nav'>
             <li className='nav-item'>
               <a className='nav-link' href='#'>
+                {' '}
                 Home
               </a>
             </li>
             <li className='nav-item'>
               <a className='nav-link' href='#'>
+                {' '}
                 Search Books
               </a>
             </li>
